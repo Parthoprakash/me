@@ -1,4 +1,4 @@
-// npm init
+// npm init -y
 // npm install --save @solana/web3.js
 
 const { 
